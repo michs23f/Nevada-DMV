@@ -1,4 +1,3 @@
-```markdown
 # Nevada DMV
 
 This repository serves as a comprehensive resource for information related to the Nevada Department of Motor Vehicles (DMV).  It aims to consolidate key details about services, processes, and requirements for Nevada residents.
